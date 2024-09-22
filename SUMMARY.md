@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sino Project Docs](README.md)
+* [Home](README.md)
 * [Code Repository, Contracts](code-repository-contracts.md)
 * [Benefits For Gamblers](benefits-for-gamblers.md)
 * [Benefits For Investors](benefits-for-investors.md)

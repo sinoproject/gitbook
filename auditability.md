@@ -4,14 +4,14 @@ Bet placing and settling are blockchain transactions. Sino smart contracts emit 
 
 But they also make Sino transparent and auditable. The following are the main events emitted, check the actual contract source code in the code repository for more details.
 
-Sino betting contract events:
+#### Sino betting contract events:
 
 * BetPlaced
 * BetSettled
 * JackpotWon
 * SettingsChanged
 
-Sino randomizer contract events:
+#### Sino randomizer contract events:
 
 * RequestReceived
 * RequestFulfilled
