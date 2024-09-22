@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Code Repository, Contracts](code-repository-contracts.md)
+* [Repo, Contracts](repo-contracts.md)
 * [Benefits For Gamblers](benefits-for-gamblers.md)
 * [Benefits For Investors](benefits-for-investors.md)
 * [The Token](the-token.md)
