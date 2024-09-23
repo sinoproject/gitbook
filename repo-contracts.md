@@ -4,7 +4,11 @@
 
 {% embed url="https://sino.kbc22.com" %}
 
-**Code Repository:**
+**Telegram Channel:**
+
+{% embed url="https://t.me/sinoproject" %}
+
+#### Code Repository:
 
 {% embed url="https://github.com/sinoproject/main" %}
 
