@@ -10,7 +10,7 @@
 
 ### Testnet (Arbitrum Sepolia)
 
-Token contract - SINOTN02:\
+Token contract (SINOTN02):\
 [0xf7749328FD2aFB711Afbc0D5b864cAFb3530f090](https://sepolia.arbiscan.io/address/0xf7749328FD2aFB711Afbc0D5b864cAFb3530f090#code)
 
 Betting contract:\
